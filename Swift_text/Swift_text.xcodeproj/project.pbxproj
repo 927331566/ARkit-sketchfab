@@ -21,7 +21,7 @@
 		B9175C792A3839E2007ED1DF /* ViewControllerFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9175C782A3839E2007ED1DF /* ViewControllerFive.swift */; };
 		B9175C7B2A3839EB007ED1DF /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9175C7A2A3839EB007ED1DF /* ViewControllerThree.swift */; };
 		B9175C7D2A3839F4007ED1DF /* ViewControllerFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9175C7C2A3839F4007ED1DF /* ViewControllerFour.swift */; };
-		B9CC43172A40902C00AE6344 /* Greek_Temple.usdz in Resources */ = {isa = PBXBuildFile; fileRef = B9CC43162A40902C00AE6344 /* Greek_Temple.usdz */; };
+		B99BEC012A418CAA00C4CC08 /* Greek_Temple.usdz in Resources */ = {isa = PBXBuildFile; fileRef = B99BEC002A418CAA00C4CC08 /* Greek_Temple.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +60,7 @@
 		B9175C782A3839E2007ED1DF /* ViewControllerFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFive.swift; sourceTree = "<group>"; };
 		B9175C7A2A3839EB007ED1DF /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 		B9175C7C2A3839F4007ED1DF /* ViewControllerFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFour.swift; sourceTree = "<group>"; };
-		B9CC43162A40902C00AE6344 /* Greek_Temple.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = Greek_Temple.usdz; path = ../../../Greek_Temple.usdz; sourceTree = "<group>"; };
+		B99BEC002A418CAA00C4CC08 /* Greek_Temple.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = Greek_Temple.usdz; path = ../../../../Greek_Temple.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +111,7 @@
 		B9175C422A3839CE007ED1DF /* Swift_text */ = {
 			isa = PBXGroup;
 			children = (
-				B9CC43162A40902C00AE6344 /* Greek_Temple.usdz */,
+				B99BEC002A418CAA00C4CC08 /* Greek_Temple.usdz */,
 				B9175C432A3839CE007ED1DF /* AppDelegate.swift */,
 				B9175C452A3839CE007ED1DF /* SceneDelegate.swift */,
 				B9175C472A3839CE007ED1DF /* ViewController.swift */,
@@ -250,7 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9175C532A3839D0007ED1DF /* LaunchScreen.storyboard in Resources */,
-				B9CC43172A40902C00AE6344 /* Greek_Temple.usdz in Resources */,
+				B99BEC012A418CAA00C4CC08 /* Greek_Temple.usdz in Resources */,
 				B9175C502A3839D0007ED1DF /* Assets.xcassets in Resources */,
 				B9175C4B2A3839CE007ED1DF /* Main.storyboard in Resources */,
 			);
